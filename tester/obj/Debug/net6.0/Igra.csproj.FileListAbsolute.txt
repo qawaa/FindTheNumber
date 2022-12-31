@@ -1,0 +1,15 @@
+C:\Users\Антон\source\repos\tester\tester\bin\Debug\net6.0\Igra.exe
+C:\Users\Антон\source\repos\tester\tester\bin\Debug\net6.0\Igra.deps.json
+C:\Users\Антон\source\repos\tester\tester\bin\Debug\net6.0\Igra.runtimeconfig.json
+C:\Users\Антон\source\repos\tester\tester\bin\Debug\net6.0\Igra.dll
+C:\Users\Антон\source\repos\tester\tester\bin\Debug\net6.0\Igra.pdb
+C:\Users\Антон\source\repos\tester\tester\obj\Debug\net6.0\Igra.csproj.AssemblyReference.cache
+C:\Users\Антон\source\repos\tester\tester\obj\Debug\net6.0\Igra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Антон\source\repos\tester\tester\obj\Debug\net6.0\Igra.AssemblyInfoInputs.cache
+C:\Users\Антон\source\repos\tester\tester\obj\Debug\net6.0\Igra.AssemblyInfo.cs
+C:\Users\Антон\source\repos\tester\tester\obj\Debug\net6.0\Igra.csproj.CoreCompileInputs.cache
+C:\Users\Антон\source\repos\tester\tester\obj\Debug\net6.0\Igra.dll
+C:\Users\Антон\source\repos\tester\tester\obj\Debug\net6.0\refint\Igra.dll
+C:\Users\Антон\source\repos\tester\tester\obj\Debug\net6.0\Igra.pdb
+C:\Users\Антон\source\repos\tester\tester\obj\Debug\net6.0\Igra.genruntimeconfig.cache
+C:\Users\Антон\source\repos\tester\tester\obj\Debug\net6.0\ref\Igra.dll
